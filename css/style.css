@@ -70,7 +70,7 @@ body::-webkit-scrollbar {
         height: auto;
         background-color: #ffffff8a;
         width: 100%;
-        margin: 70px auto;
+        /* margin: 70px auto; */
         box-shadow: 15px 15px 15px rgba(42, 42, 42, 0.46);
 
     }
